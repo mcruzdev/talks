@@ -18,7 +18,20 @@
 		"date": "2026-06-13",
 		"location": "FIAP, Rio de Janeiro — SouJava RJ",
 		"slides": "slides/quarkus-flow-orquestrando-complexidade-e-agentes-de-ia.html",
-		"demo": "https://github.com/mcruzdev/agentic-ai-durable"
+		"demo": [
+			"https://github.com/mcruzdev/agentic-ai-durable",
+			"https://github.com/mcruzdev/github-stars-raffle"
+		]
+	},
+	{
+		"title": "Quarkus Flow: orquestrando complexidade e IA",
+		"date": "2026-05-13",
+		"location": "Oracle, São Paulo — Comunidade SouJava",
+		"slides": "https://docs.google.com/presentation/d/1MVw1qHz2BaTjZT2U_CRYcb9hGemtQRKgMiGq-v8Rsqg/edit?usp=sharing",
+		"demo": [
+			"https://github.com/mcruzdev/agentic-ai-durable",
+			"https://github.com/mcruzdev/github-stars-raffle"
+		]
 	},
 	{
 		"title": "Frictionless Java: Explorando o Quarkus, do Zero ao Deploy",
