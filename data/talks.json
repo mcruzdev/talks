@@ -1,0 +1,31 @@
+[
+	{
+		"title": "Agentic Workflows com Quarkus Flow e LangChain4J",
+		"date": "2026-09-29",
+		"location": "IBM",
+		"slides": "slides/agentic-workflows-com-quarkus-flow-e-langchain4j.html",
+		"demo": "https://github.com/omatheusmesmo/incident-response-sre"
+	},
+	{
+		"title": "Todo Sistema Tem um Workflow Escondido",
+		"date": "2026-09-05",
+		"location": "Nubank, São Paulo — Comunidade DevConverge LATAM",
+		"slides": "slides/todo-sistema-tem-um-workflow-escodido.html",
+		"demo": "https://github.com/mcruzdev/agentic-ai-durable"
+	},
+	{
+		"title": "Quarkus Flow: Orquestrando Complexidade e Agentes de IA",
+		"date": "2026-06-13",
+		"location": "FIAP, Rio de Janeiro — SouJava RJ",
+		"slides": "slides/quarkus-flow-orquestrando-complexidade-e-agentes-de-ia.html",
+		"demo": "https://github.com/mcruzdev/agentic-ai-durable"
+	},
+	{
+		"title": "Frictionless Java: Explorando o Quarkus, do Zero ao Deploy",
+		"date": "2025-11-12",
+		"location": "YouTube",
+		"video": "https://www.youtube.com/watch?v=oGZuz5vPtww",
+		"slides": "https://docs.google.com/presentation/d/1knsya04GK1v5-e3DsGWvhA_BVgnGPVzp/edit?usp=sharing&ouid=100051499153284596370&rtpof=true&sd=true",
+		"demo": "https://github.com/mcruzdev/frictionless-java-jugbrazil"
+	}
+]
