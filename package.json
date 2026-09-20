@@ -1,0 +1,13 @@
+{
+	"name": "talks-and-demos",
+	"private": true,
+	"version": "1.0.0",
+	"description": "Slides and demos from talks",
+	"scripts": {
+		"start": "node server.js",
+		"dev": "nodemon --watch . --ext html,js,css,md --ignore node_modules server.js"
+	},
+	"devDependencies": {
+		"nodemon": "^3.1.7"
+	}
+}
